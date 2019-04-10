@@ -57,7 +57,7 @@
   "peerDependencies": {
     "slate-auto-replace": "*",
     "slate-collapse-on-escape": "*",
-    "slate-drop-or-paste-images": "*",
+    "cyber-slate-drop-or-paste-images": "*",
     "slate-paste-linkify": "*",
     "slate-soft-break": "*",
     "slate-when": "*"

@@ -6,7 +6,7 @@ This repository contains a few of [my](https://github.com/ianstormtaylor) Slate 
 
 - [`slate-auto-replace`](./packages/slate-auto-replace)
 - [`slate-collapse-on-escape`](./packages/slate-collapse-on-escape)
-- [`slate-drop-or-paste-images`](./packages/slate-drop-or-paste-images)
+- [`cyber-slate-drop-or-paste-images`](packages/cyber-slate-drop-or-paste-images)
 - [`slate-paste-linkify`](./packages/slate-paste-linkify)
 - [`slate-soft-break`](./packages/slate-soft-break)
 

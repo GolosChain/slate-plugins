@@ -1,4 +1,4 @@
-### `slate-drop-or-paste-images`
+### `cyber-slate-drop-or-paste-images`
 
 A Slate plugin that inserts images on drop or paste.
 
@@ -16,7 +16,7 @@ It does not handle dragging and dropping Slate nodes or fragments, which is hand
 [View Demo ⬈](https://slate-plugins.netlify.com/#/slate-drop-or-paste-images)
 
 ```js
-import InsertImages from 'slate-drop-or-paste-images'
+import InsertImages from 'cyber-slate-drop-or-paste-images'
 import { Editor } from 'slate-react'
 
 // Add the plugin to your set of plugins...

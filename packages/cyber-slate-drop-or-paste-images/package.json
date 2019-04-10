@@ -1,13 +1,13 @@
 {
-  "name": "slate-drop-or-paste-images",
+  "name": "cyber-slate-drop-or-paste-images",
   "description": "A Slate plugin that inserts images on drop or paste.",
-  "version": "0.9.1",
+  "version": "0.0.1",
   "license": "MIT",
-  "repository": "git://github.com/ianstormtaylor/slate-plugins.git",
-  "main": "lib/slate-drop-or-paste-images.js",
-  "module": "lib/slate-drop-or-paste-images.es.js",
-  "umd": "dist/slate-drop-or-paste-images.js",
-  "umdMin": "dist/slate-drop-or-paste-images.min.js",
+  "repository": "git://github.com/goloschain/slate-plugins.git",
+  "main": "lib/cyber-slate-drop-or-paste-images.js",
+  "module": "lib/cyber-slate-drop-or-paste-images.es.js",
+  "umd": "dist/cyber-slate-drop-or-paste-images.js",
+  "umdMin": "dist/cyber-slate-drop-or-paste-images.min.js",
   "umdGlobals": {
     "slate": "Slate",
     "slate-react": "SlateReact"

@@ -21,7 +21,7 @@ function DropOrPasteImages(options = {}) {
   if (options.applyTransform) {
     logger.deprecate(
       '0.6.0',
-      'The `applyTransform` argument to `slate-drop-or-paste-images` has been renamed to `insertImage` instead.'
+      'The `applyTransform` argument to `cyber-slate-drop-or-paste-images` has been renamed to `insertImage` instead.'
     )
     insertImage = options.applyTransform
   }
@@ -82,8 +82,8 @@ function DropOrPasteImages(options = {}) {
         return onInsertFiles(event, change, next, transfer, range)
       case 'html':
         return onInsertHtml(event, change, next, transfer, range)
-      case 'text':
-        return onInsertText(event, change, next, transfer, range)
+      // case 'text':
+      //   return onInsertText(event, change, next, transfer, range)
       default:
         return next()
     }

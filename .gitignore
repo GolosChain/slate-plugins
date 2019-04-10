@@ -7,6 +7,7 @@ lib/
 
 # Temporary files.
 tmp/
+.npmrc
 
 # Gitbook files.
 _book/
